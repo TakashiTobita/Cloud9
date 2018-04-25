@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <title>JavaScript Test</title>
+
+  </head>
+  <body>
+    <input type="text" class="my-input">
+    <button class="copy-button">&rarr;</button>
+    <input type="text" class="my-output">
+    <input type="text" class="my-output">
+    <input type="text" class="my-output">
+    <input type="text" class="my-output">
+    <input type="text" class="my-output">
+    <div id="box"></div>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="main.js"></script>
+  </body>
+</html>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $(".my-form").submit(function() {
+        // フォームが送信された時に実行される
+        var text1 = $(".text1").val();
+        var text2 = $(".text2").val();
+        if (text1 !== text2) {
+            $(".error").html("テキストが一致しません");
+
+            // フォームの送信をキャンセル
+            return false;
+        }
+    });
+});
+</script>

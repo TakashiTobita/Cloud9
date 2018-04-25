@@ -1,0 +1,28 @@
+{
+	"hamakita":{
+		"uwa_intl_10": 11,
+		"uwa_intl_20": 12,
+		"uwa_trad_10": 16,
+		"uwa_trad_20": 17,
+		"yuka_intl_10": 21,
+		"yuka_intl_20": 22,
+		"yuka_trad_10": 26,
+		"yuka_trad_20": 27,
+		"other_10": 31,
+		"other_20": 32,
+		"other_30": 33
+	},
+	"fujieda": {
+		"uwa_intl_10": 11,
+		"uwa_intl_20": 12,
+		"uwa_trad_10": 16,
+		"uwa_trad_20": 17,
+		"yuka_intl_10": 21,
+		"yuka_intl_20": 22,
+		"yuka_trad_10": 26,
+		"yuka_trad_20": 27,
+		"other_10": 31,
+		"other_20": 32,
+		"other_30": 33
+	}
+}

@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>
+            Ajax
+        </title>
+    </head>
+    <body>
+        <input type="button" value="取得" id="button1">
+        <textarea id="area" width="200px" height="300px"></textarea>
+        <div id="area2"></div>
+    </body>
+</html>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script>
+$('#button1').click(function(){
+  $.ajax({
+    url: "./data.html",
+    dataType: "json",
+    cache: false,
+    success: function(data, textStatus){
+      // 成功したとき
+      // data にサーバーから返された html が入る
+      console.log(data);
+    },
+    error: function(xhr, textStatus, errorThrown){
+      // エラー処理
+      console.log(xhr);
+    }
+  });
+});
+    
+</script>

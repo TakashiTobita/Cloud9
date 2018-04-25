@@ -1,0 +1,1109 @@
+[22-Dec-2015 14:27:29 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/ubuntu/workspace/ch4/view.php on line 28
+[24-Dec-2015 06:53:51 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/ubuntu/workspace/C4 S39.40/view1.php on line 24
+[24-Dec-2015 07:41:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/C4 S39.40/view1.php on line 45
+[25-Dec-2015 07:03:52 UTC] PHP Fatal error:  Call to undefined function move_vuploaded_file() in /home/ubuntu/workspace/C4_45up/view.php on line 12
+[25-Dec-2015 07:03:52 UTC] PHP Stack trace:
+[25-Dec-2015 07:03:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/C4_45up/view.php:0
+[25-Dec-2015 09:45:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/Ch4_mail/maillist.php on line 11
+[25-Dec-2015 09:52:03 UTC] PHP Fatal error:  Call to undefined function md_convert_encoding() in /home/ubuntu/workspace/ch4_48/exec.php on line 3
+[25-Dec-2015 09:52:03 UTC] PHP Stack trace:
+[25-Dec-2015 09:52:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/ch4_48/exec.php:0
+[25-Dec-2015 09:52:32 UTC] PHP Fatal error:  Call to undefined function md_convert_encoding() in /home/ubuntu/workspace/ch4_48/exec.php on line 3
+[25-Dec-2015 09:52:33 UTC] PHP Stack trace:
+[25-Dec-2015 09:52:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/ch4_48/exec.php:0
+[25-Dec-2015 09:53:44 UTC] PHP Fatal error:  Call to undefined function md_convert_encoding() in /home/ubuntu/workspace/ch4_48/exec.php on line 3
+[25-Dec-2015 09:53:44 UTC] PHP Stack trace:
+[25-Dec-2015 09:53:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/ch4_48/exec.php:0
+[25-Dec-2015 10:04:34 UTC] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/ubuntu/workspace/ch4_48/system1.php on line 4
+[26-Dec-2015 16:53:51 UTC] PHP Fatal error:  Cannot access private property Test::$str2 in /home/ubuntu/workspace/c4_method/private1.php on line 10
+[26-Dec-2015 16:53:52 UTC] PHP Stack trace:
+[26-Dec-2015 16:53:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/c4_method/private1.php:0
+[26-Dec-2015 16:54:05 UTC] PHP Fatal error:  Call to undefined method Test::TestNothing() in /home/ubuntu/workspace/c4_method/private2.php on line 18
+[26-Dec-2015 16:54:06 UTC] PHP Stack trace:
+[26-Dec-2015 16:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/c4_method/private2.php:0
+[28-Dec-2015 04:25:24 UTC] PHP Fatal error:  Trait 'SsyMorning' not found in /home/ubuntu/workspace/C5_52/trait.php on line 25
+[28-Dec-2015 04:25:24 UTC] PHP Stack trace:
+[28-Dec-2015 04:25:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/C5_52/trait.php:0
+[28-Dec-2015 12:37:20 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/implode/implode.php on line 20
+[28-Dec-2015 12:37:20 UTC] PHP Stack trace:
+[28-Dec-2015 12:37:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/implode/implode.php:0
+[28-Dec-2015 12:37:20 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/implode/implode.php:20
+[28-Dec-2015 12:37:20 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/implode/implode.php on line 20
+[28-Dec-2015 12:37:20 UTC] PHP Stack trace:
+[28-Dec-2015 12:37:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/implode/implode.php:0
+[28-Dec-2015 12:37:20 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/implode/implode.php:20
+[31-Dec-2015 18:48:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/ch4_46img/view46.php on line 38
+[05-Jan-2016 08:45:02 UTC] PHP Fatal error:  Class 'Menber' not found in /home/ubuntu/workspace/C5_53/setget.php on line 9
+[05-Jan-2016 08:45:02 UTC] PHP Stack trace:
+[05-Jan-2016 08:45:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/C5_53/setget.php:0
+[05-Jan-2016 08:46:08 UTC] PHP Fatal error:  Call to undefined method Member::setID() in /home/ubuntu/workspace/C5_53/setget.php on line 10
+[05-Jan-2016 08:46:08 UTC] PHP Stack trace:
+[05-Jan-2016 08:46:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/C5_53/setget.php:0
+[05-Jan-2016 08:57:19 UTC] PHP Fatal error:  Cannot redeclare Member::getId() in /home/ubuntu/workspace/C5_53/Section53.php on line 41
+[05-Jan-2016 08:59:15 UTC] PHP Parse error:  syntax error, unexpected '$member' (T_VARIABLE), expecting function (T_FUNCTION) in /home/ubuntu/workspace/C5_53/Section53.php on line 65
+[05-Jan-2016 09:00:25 UTC] PHP Catchable fatal error:  Argument 1 passed to Member::setId() must be an instance of int, string given, called in /home/ubuntu/workspace/C5_53/Section53.php on line 69 and defined in /home/ubuntu/workspace/C5_53/Section53.php on line 34
+[05-Jan-2016 09:00:25 UTC] PHP Stack trace:
+[05-Jan-2016 09:00:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/C5_53/Section53.php:0
+[05-Jan-2016 09:00:25 UTC] PHP   2. Member->setId() /home/ubuntu/workspace/C5_53/Section53.php:69
+[05-Jan-2016 09:01:49 UTC] PHP Catchable fatal error:  Argument 1 passed to Member::setId() must be an instance of int, string given, called in /home/ubuntu/workspace/C5_53/Section53.php on line 69 and defined in /home/ubuntu/workspace/C5_53/Section53.php on line 34
+[05-Jan-2016 09:01:49 UTC] PHP Stack trace:
+[05-Jan-2016 09:01:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/C5_53/Section53.php:0
+[05-Jan-2016 09:01:49 UTC] PHP   2. Member->setId() /home/ubuntu/workspace/C5_53/Section53.php:69
+[05-Jan-2016 09:02:09 UTC] PHP Catchable fatal error:  Argument 1 passed to Member::setId() must be an instance of int, integer given, called in /home/ubuntu/workspace/C5_53/Section53.php on line 69 and defined in /home/ubuntu/workspace/C5_53/Section53.php on line 34
+[05-Jan-2016 09:02:09 UTC] PHP Stack trace:
+[05-Jan-2016 09:02:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/C5_53/Section53.php:0
+[05-Jan-2016 09:02:09 UTC] PHP   2. Member->setId() /home/ubuntu/workspace/C5_53/Section53.php:69
+[05-Jan-2016 09:04:54 UTC] PHP Parse error:  syntax error, unexpected '(int)' (int) (T_INT_CAST), expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/C5_53/Section53.php on line 34
+[05-Jan-2016 09:08:01 UTC] PHP Catchable fatal error:  Argument 1 passed to Member::setId() must be an instance of int, integer given, called in /home/ubuntu/workspace/C5_53/Section53.php on line 69 and defined in /home/ubuntu/workspace/C5_53/Section53.php on line 34
+[05-Jan-2016 09:08:01 UTC] PHP Stack trace:
+[05-Jan-2016 09:08:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/C5_53/Section53.php:0
+[05-Jan-2016 09:08:01 UTC] PHP   2. Member->setId() /home/ubuntu/workspace/C5_53/Section53.php:69
+[05-Jan-2016 09:09:05 UTC] PHP Catchable fatal error:  Argument 1 passed to Member::setId() must be an instance of int, integer given, called in /home/ubuntu/workspace/C5_53/Section53.php on line 70 and defined in /home/ubuntu/workspace/C5_53/Section53.php on line 34
+[05-Jan-2016 09:09:05 UTC] PHP Stack trace:
+[05-Jan-2016 09:09:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/C5_53/Section53.php:0
+[05-Jan-2016 09:09:05 UTC] PHP   2. Member->setId() /home/ubuntu/workspace/C5_53/Section53.php:70
+[05-Jan-2016 09:09:06 UTC] PHP Catchable fatal error:  Argument 1 passed to Member::setId() must be an instance of int, integer given, called in /home/ubuntu/workspace/C5_53/Section53.php on line 70 and defined in /home/ubuntu/workspace/C5_53/Section53.php on line 34
+[05-Jan-2016 09:09:06 UTC] PHP Stack trace:
+[05-Jan-2016 09:09:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/C5_53/Section53.php:0
+[05-Jan-2016 09:09:06 UTC] PHP   2. Member->setId() /home/ubuntu/workspace/C5_53/Section53.php:70
+[05-Jan-2016 09:09:53 UTC] PHP Catchable fatal error:  Argument 1 passed to Member::setId() must be an instance of int, integer given, called in /home/ubuntu/workspace/C5_53/Section53.php on line 70 and defined in /home/ubuntu/workspace/C5_53/Section53.php on line 34
+[05-Jan-2016 09:09:53 UTC] PHP Stack trace:
+[05-Jan-2016 09:09:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/C5_53/Section53.php:0
+[05-Jan-2016 09:09:53 UTC] PHP   2. Member->setId() /home/ubuntu/workspace/C5_53/Section53.php:70
+[05-Jan-2016 09:10:44 UTC] PHP Catchable fatal error:  Argument 1 passed to Member::setId() must be an instance of int, integer given, called in /home/ubuntu/workspace/C5_53/Section53.php on line 70 and defined in /home/ubuntu/workspace/C5_53/Section53.php on line 34
+[05-Jan-2016 09:10:44 UTC] PHP Stack trace:
+[05-Jan-2016 09:10:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/C5_53/Section53.php:0
+[05-Jan-2016 09:10:44 UTC] PHP   2. Member->setId() /home/ubuntu/workspace/C5_53/Section53.php:70
+[06-Jan-2016 01:43:51 UTC] PHP Fatal error:  Class 'mysql' not found in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 3
+[06-Jan-2016 01:43:51 UTC] PHP Stack trace:
+[06-Jan-2016 01:43:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 01:57:57 UTC] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 5
+[06-Jan-2016 01:59:36 UTC] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 9
+[06-Jan-2016 01:59:36 UTC] PHP Stack trace:
+[06-Jan-2016 01:59:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 01:59:36 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:9
+[06-Jan-2016 01:59:36 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 9
+[06-Jan-2016 01:59:36 UTC] PHP Stack trace:
+[06-Jan-2016 01:59:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 01:59:36 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:9
+[06-Jan-2016 02:00:57 UTC] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 9
+[06-Jan-2016 02:00:57 UTC] PHP Stack trace:
+[06-Jan-2016 02:00:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 02:00:57 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:9
+[06-Jan-2016 02:00:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 9
+[06-Jan-2016 02:00:57 UTC] PHP Stack trace:
+[06-Jan-2016 02:00:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 02:00:57 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:9
+[06-Jan-2016 02:01:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 9
+[06-Jan-2016 02:01:28 UTC] PHP Stack trace:
+[06-Jan-2016 02:01:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 02:01:28 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:9
+[06-Jan-2016 02:09:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[06-Jan-2016 02:09:15 UTC] PHP Stack trace:
+[06-Jan-2016 02:09:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 02:09:15 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[06-Jan-2016 02:15:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[06-Jan-2016 02:15:29 UTC] PHP Stack trace:
+[06-Jan-2016 02:15:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 02:15:29 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[06-Jan-2016 02:18:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[06-Jan-2016 02:18:59 UTC] PHP Stack trace:
+[06-Jan-2016 02:18:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 02:18:59 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[06-Jan-2016 02:18:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[06-Jan-2016 02:18:59 UTC] PHP Stack trace:
+[06-Jan-2016 02:18:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 02:18:59 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[06-Jan-2016 04:47:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[06-Jan-2016 04:47:04 UTC] PHP Stack trace:
+[06-Jan-2016 04:47:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 04:47:04 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[06-Jan-2016 04:47:04 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 04:47:04 UTC] PHP Stack trace:
+[06-Jan-2016 04:47:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 04:47:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 04:47:04 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 04:47:04 UTC] PHP Stack trace:
+[06-Jan-2016 04:47:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 04:47:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 04:47:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 04:47:04 UTC] PHP Stack trace:
+[06-Jan-2016 04:47:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 04:47:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 04:47:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 04:47:04 UTC] PHP Stack trace:
+[06-Jan-2016 04:47:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 04:47:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 04:47:04 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 04:47:04 UTC] PHP Stack trace:
+[06-Jan-2016 04:47:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 04:47:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 04:47:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 04:47:04 UTC] PHP Stack trace:
+[06-Jan-2016 04:47:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 04:47:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 04:47:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 04:47:04 UTC] PHP Stack trace:
+[06-Jan-2016 04:47:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 04:47:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 04:47:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 04:47:04 UTC] PHP Stack trace:
+[06-Jan-2016 04:47:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 04:47:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 04:47:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 04:47:04 UTC] PHP Stack trace:
+[06-Jan-2016 04:47:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 04:47:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 04:47:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 04:47:04 UTC] PHP Stack trace:
+[06-Jan-2016 04:47:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 04:47:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 04:47:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 04:47:04 UTC] PHP Stack trace:
+[06-Jan-2016 04:47:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 04:47:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 04:47:04 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 04:47:04 UTC] PHP Stack trace:
+[06-Jan-2016 04:47:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 04:47:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 04:47:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 04:47:04 UTC] PHP Stack trace:
+[06-Jan-2016 04:47:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 04:47:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 04:47:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 04:47:04 UTC] PHP Stack trace:
+[06-Jan-2016 04:47:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 04:47:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 04:47:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 04:47:04 UTC] PHP Stack trace:
+[06-Jan-2016 04:47:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 04:47:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 04:47:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 04:47:04 UTC] PHP Stack trace:
+[06-Jan-2016 04:47:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 04:47:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:40:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[06-Jan-2016 12:40:58 UTC] PHP Stack trace:
+[06-Jan-2016 12:40:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:40:58 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[06-Jan-2016 12:40:58 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:40:58 UTC] PHP Stack trace:
+[06-Jan-2016 12:40:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:40:58 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:40:58 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:40:58 UTC] PHP Stack trace:
+[06-Jan-2016 12:40:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:40:58 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:40:58 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:40:58 UTC] PHP Stack trace:
+[06-Jan-2016 12:40:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:40:58 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:40:58 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:40:58 UTC] PHP Stack trace:
+[06-Jan-2016 12:40:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:40:58 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:40:58 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:40:58 UTC] PHP Stack trace:
+[06-Jan-2016 12:40:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:40:58 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:40:58 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:40:58 UTC] PHP Stack trace:
+[06-Jan-2016 12:40:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:40:58 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:40:58 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:40:58 UTC] PHP Stack trace:
+[06-Jan-2016 12:40:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:40:58 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:40:58 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:40:58 UTC] PHP Stack trace:
+[06-Jan-2016 12:40:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:40:58 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:40:58 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:40:58 UTC] PHP Stack trace:
+[06-Jan-2016 12:40:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:40:58 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:40:58 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:40:58 UTC] PHP Stack trace:
+[06-Jan-2016 12:40:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:40:58 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:40:58 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:40:58 UTC] PHP Stack trace:
+[06-Jan-2016 12:40:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:40:58 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:40:58 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:40:58 UTC] PHP Stack trace:
+[06-Jan-2016 12:40:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:40:58 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:40:58 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:40:58 UTC] PHP Stack trace:
+[06-Jan-2016 12:40:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:40:58 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:40:58 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:40:58 UTC] PHP Stack trace:
+[06-Jan-2016 12:40:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:40:58 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:40:58 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:40:58 UTC] PHP Stack trace:
+[06-Jan-2016 12:40:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:40:58 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:40:58 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:40:58 UTC] PHP Stack trace:
+[06-Jan-2016 12:40:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:40:58 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:42:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[06-Jan-2016 12:42:11 UTC] PHP Stack trace:
+[06-Jan-2016 12:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:42:11 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[06-Jan-2016 12:42:11 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:42:11 UTC] PHP Stack trace:
+[06-Jan-2016 12:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:42:11 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:42:11 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:42:11 UTC] PHP Stack trace:
+[06-Jan-2016 12:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:42:11 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:42:11 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:42:11 UTC] PHP Stack trace:
+[06-Jan-2016 12:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:42:11 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:42:11 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:42:11 UTC] PHP Stack trace:
+[06-Jan-2016 12:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:42:11 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:42:11 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:42:11 UTC] PHP Stack trace:
+[06-Jan-2016 12:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:42:11 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:42:11 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:42:11 UTC] PHP Stack trace:
+[06-Jan-2016 12:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:42:11 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:42:11 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:42:11 UTC] PHP Stack trace:
+[06-Jan-2016 12:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:42:11 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:42:11 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:42:11 UTC] PHP Stack trace:
+[06-Jan-2016 12:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:42:11 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:42:11 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:42:11 UTC] PHP Stack trace:
+[06-Jan-2016 12:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:42:11 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:42:11 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:42:11 UTC] PHP Stack trace:
+[06-Jan-2016 12:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:42:11 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:42:11 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:42:11 UTC] PHP Stack trace:
+[06-Jan-2016 12:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:42:11 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:42:11 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:42:11 UTC] PHP Stack trace:
+[06-Jan-2016 12:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:42:11 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:42:11 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:42:11 UTC] PHP Stack trace:
+[06-Jan-2016 12:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:42:11 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:42:11 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:42:11 UTC] PHP Stack trace:
+[06-Jan-2016 12:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:42:11 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:42:11 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:42:11 UTC] PHP Stack trace:
+[06-Jan-2016 12:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:42:11 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[06-Jan-2016 12:42:11 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[06-Jan-2016 12:42:11 UTC] PHP Stack trace:
+[06-Jan-2016 12:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[06-Jan-2016 12:42:11 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:45:37 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[26-Jan-2016 02:45:38 UTC] PHP Stack trace:
+[26-Jan-2016 02:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:45:38 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[26-Jan-2016 02:45:38 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:45:38 UTC] PHP Stack trace:
+[26-Jan-2016 02:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:45:38 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:45:38 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:45:38 UTC] PHP Stack trace:
+[26-Jan-2016 02:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:45:38 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:45:38 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:45:38 UTC] PHP Stack trace:
+[26-Jan-2016 02:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:45:38 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:45:38 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:45:38 UTC] PHP Stack trace:
+[26-Jan-2016 02:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:45:38 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:45:38 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:45:38 UTC] PHP Stack trace:
+[26-Jan-2016 02:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:45:38 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:45:38 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:45:38 UTC] PHP Stack trace:
+[26-Jan-2016 02:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:45:38 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:45:38 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:45:38 UTC] PHP Stack trace:
+[26-Jan-2016 02:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:45:38 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:45:38 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:45:38 UTC] PHP Stack trace:
+[26-Jan-2016 02:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:45:38 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:45:38 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:45:38 UTC] PHP Stack trace:
+[26-Jan-2016 02:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:45:38 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:45:38 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:45:38 UTC] PHP Stack trace:
+[26-Jan-2016 02:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:45:38 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:45:38 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:45:38 UTC] PHP Stack trace:
+[26-Jan-2016 02:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:45:38 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:45:38 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:45:38 UTC] PHP Stack trace:
+[26-Jan-2016 02:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:45:38 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:45:38 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:45:38 UTC] PHP Stack trace:
+[26-Jan-2016 02:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:45:38 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:45:38 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:45:38 UTC] PHP Stack trace:
+[26-Jan-2016 02:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:45:38 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:45:38 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:45:38 UTC] PHP Stack trace:
+[26-Jan-2016 02:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:45:38 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:45:38 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:45:38 UTC] PHP Stack trace:
+[26-Jan-2016 02:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:45:38 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[26-Jan-2016 02:48:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:14 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[26-Jan-2016 02:48:14 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:14 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:14 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:14 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[26-Jan-2016 02:48:26 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:26 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[26-Jan-2016 02:48:26 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:26 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:26 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:26 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:26 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:26 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:26 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:26 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:26 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:26 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:26 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:26 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:26 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:26 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:26 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:26 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:26 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:26 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:26 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:26 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:26 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:26 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:26 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:26 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:26 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:26 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:26 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:26 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:26 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:26 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:26 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:26 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:26 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:26 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:26 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:26 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:26 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:26 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:26 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:26 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:26 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:26 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:26 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:26 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:26 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:26 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:26 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:26 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[26-Jan-2016 02:48:28 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:28 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[26-Jan-2016 02:48:28 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:28 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:28 UTC] PHP   2. print_r() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:28 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:28 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:28 UTC] PHP   2. print_r() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:28 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:28 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:28 UTC] PHP   2. print_r() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:28 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:28 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:28 UTC] PHP   2. print_r() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:28 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:28 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:28 UTC] PHP   2. print_r() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:28 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:28 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:28 UTC] PHP   2. print_r() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:28 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:28 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:28 UTC] PHP   2. print_r() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:28 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:28 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:28 UTC] PHP   2. print_r() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:28 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:28 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:28 UTC] PHP   2. print_r() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:28 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:28 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:28 UTC] PHP   2. print_r() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:28 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:28 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:28 UTC] PHP   2. print_r() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:28 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:28 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:28 UTC] PHP   2. print_r() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:28 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:28 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:28 UTC] PHP   2. print_r() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:28 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:28 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:28 UTC] PHP   2. print_r() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:28 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:28 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:28 UTC] PHP   2. print_r() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:28 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:28 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:28 UTC] PHP   2. print_r() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:48:30 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:48:30 UTC] PHP Stack trace:
+[26-Jan-2016 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:48:30 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:51:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[26-Jan-2016 02:51:04 UTC] PHP Stack trace:
+[26-Jan-2016 02:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:51:04 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[26-Jan-2016 02:51:04 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:51:04 UTC] PHP Stack trace:
+[26-Jan-2016 02:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:51:04 UTC] PHP   2. mysqli->set_charset(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:51:04 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:51:04 UTC] PHP Stack trace:
+[26-Jan-2016 02:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:51:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:51:04 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:51:04 UTC] PHP Stack trace:
+[26-Jan-2016 02:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:51:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:51:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:51:04 UTC] PHP Stack trace:
+[26-Jan-2016 02:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:51:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:51:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:51:04 UTC] PHP Stack trace:
+[26-Jan-2016 02:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:51:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:51:04 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:51:04 UTC] PHP Stack trace:
+[26-Jan-2016 02:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:51:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:51:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:51:04 UTC] PHP Stack trace:
+[26-Jan-2016 02:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:51:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:51:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:51:04 UTC] PHP Stack trace:
+[26-Jan-2016 02:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:51:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:51:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:51:04 UTC] PHP Stack trace:
+[26-Jan-2016 02:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:51:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:51:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:51:04 UTC] PHP Stack trace:
+[26-Jan-2016 02:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:51:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:51:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:51:04 UTC] PHP Stack trace:
+[26-Jan-2016 02:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:51:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:51:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:51:04 UTC] PHP Stack trace:
+[26-Jan-2016 02:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:51:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:51:04 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:51:04 UTC] PHP Stack trace:
+[26-Jan-2016 02:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:51:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:51:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:51:04 UTC] PHP Stack trace:
+[26-Jan-2016 02:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:51:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:51:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:51:04 UTC] PHP Stack trace:
+[26-Jan-2016 02:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:51:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:51:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:51:04 UTC] PHP Stack trace:
+[26-Jan-2016 02:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:51:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:51:04 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:51:04 UTC] PHP Stack trace:
+[26-Jan-2016 02:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:51:04 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:52:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[26-Jan-2016 02:52:13 UTC] PHP Stack trace:
+[26-Jan-2016 02:52:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:52:13 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[26-Jan-2016 02:52:13 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:52:13 UTC] PHP Stack trace:
+[26-Jan-2016 02:52:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:52:13 UTC] PHP   2. mysqli->set_charset(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:52:13 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:52:13 UTC] PHP Stack trace:
+[26-Jan-2016 02:52:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:52:13 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:52:13 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:52:13 UTC] PHP Stack trace:
+[26-Jan-2016 02:52:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:52:13 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:52:13 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:52:13 UTC] PHP Stack trace:
+[26-Jan-2016 02:52:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:52:13 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:52:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:52:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:52:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:52:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:52:14 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:52:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:52:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:52:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:52:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:52:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:52:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:52:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:52:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:52:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:52:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:52:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:52:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:52:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:52:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:52:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:52:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:52:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:52:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:52:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:52:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:52:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:52:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:52:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:52:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:52:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:52:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:52:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:52:14 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:52:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:52:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:52:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:52:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:52:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:52:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:52:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:52:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:52:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:52:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:52:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:52:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:52:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:52:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:52:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:52:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:52:14 UTC] PHP Stack trace:
+[26-Jan-2016 02:52:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:52:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:54:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[26-Jan-2016 02:54:06 UTC] PHP Stack trace:
+[26-Jan-2016 02:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:54:06 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[26-Jan-2016 02:54:06 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[26-Jan-2016 02:54:06 UTC] PHP Stack trace:
+[26-Jan-2016 02:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:54:06 UTC] PHP   2. mysqli->set_charset(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[26-Jan-2016 02:54:06 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:54:06 UTC] PHP Stack trace:
+[26-Jan-2016 02:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:54:06 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:54:06 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:54:06 UTC] PHP Stack trace:
+[26-Jan-2016 02:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:54:06 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:54:06 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:54:06 UTC] PHP Stack trace:
+[26-Jan-2016 02:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:54:06 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:54:06 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:54:06 UTC] PHP Stack trace:
+[26-Jan-2016 02:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:54:06 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:54:06 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:54:06 UTC] PHP Stack trace:
+[26-Jan-2016 02:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:54:06 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:54:06 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:54:06 UTC] PHP Stack trace:
+[26-Jan-2016 02:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:54:06 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:54:06 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:54:06 UTC] PHP Stack trace:
+[26-Jan-2016 02:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:54:06 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:54:06 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:54:06 UTC] PHP Stack trace:
+[26-Jan-2016 02:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:54:06 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:54:06 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:54:06 UTC] PHP Stack trace:
+[26-Jan-2016 02:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:54:06 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:54:06 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:54:06 UTC] PHP Stack trace:
+[26-Jan-2016 02:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:54:06 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:54:06 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:54:06 UTC] PHP Stack trace:
+[26-Jan-2016 02:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:54:06 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:54:06 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:54:06 UTC] PHP Stack trace:
+[26-Jan-2016 02:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:54:06 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:54:06 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:54:06 UTC] PHP Stack trace:
+[26-Jan-2016 02:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:54:06 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:54:06 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:54:06 UTC] PHP Stack trace:
+[26-Jan-2016 02:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:54:06 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:54:06 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:54:06 UTC] PHP Stack trace:
+[26-Jan-2016 02:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:54:06 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[26-Jan-2016 02:54:06 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[26-Jan-2016 02:54:06 UTC] PHP Stack trace:
+[26-Jan-2016 02:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[26-Jan-2016 02:54:06 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[01-Feb-2016 06:41:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[01-Feb-2016 06:41:14 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:14 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[01-Feb-2016 06:41:14 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[01-Feb-2016 06:41:14 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:14 UTC] PHP   2. mysqli->set_charset(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[01-Feb-2016 06:41:14 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[01-Feb-2016 06:41:14 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[01-Feb-2016 06:41:14 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[01-Feb-2016 06:41:14 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[01-Feb-2016 06:41:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[01-Feb-2016 06:41:14 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[01-Feb-2016 06:41:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[01-Feb-2016 06:41:14 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[01-Feb-2016 06:41:14 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[01-Feb-2016 06:41:14 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[01-Feb-2016 06:41:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[01-Feb-2016 06:41:14 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[01-Feb-2016 06:41:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[01-Feb-2016 06:41:14 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[01-Feb-2016 06:41:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[01-Feb-2016 06:41:14 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[01-Feb-2016 06:41:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[01-Feb-2016 06:41:14 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[01-Feb-2016 06:41:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[01-Feb-2016 06:41:14 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[01-Feb-2016 06:41:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[01-Feb-2016 06:41:14 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[01-Feb-2016 06:41:14 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[01-Feb-2016 06:41:14 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[01-Feb-2016 06:41:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[01-Feb-2016 06:41:14 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[01-Feb-2016 06:41:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[01-Feb-2016 06:41:14 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[01-Feb-2016 06:41:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[01-Feb-2016 06:41:14 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[01-Feb-2016 06:41:14 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 13
+[01-Feb-2016 06:41:14 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:14 UTC] PHP   2. print_r(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:13
+[01-Feb-2016 06:41:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[01-Feb-2016 06:41:29 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:29 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[01-Feb-2016 06:41:29 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[01-Feb-2016 06:41:29 UTC] PHP Stack trace:
+[01-Feb-2016 06:41:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:41:29 UTC] PHP   2. mysqli->set_charset(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[01-Feb-2016 06:42:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[01-Feb-2016 06:42:58 UTC] PHP Stack trace:
+[01-Feb-2016 06:42:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:42:58 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[01-Feb-2016 06:42:58 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[01-Feb-2016 06:42:58 UTC] PHP Stack trace:
+[01-Feb-2016 06:42:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:42:58 UTC] PHP   2. mysqli->set_charset(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[01-Feb-2016 06:43:00 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[01-Feb-2016 06:43:00 UTC] PHP Stack trace:
+[01-Feb-2016 06:43:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:43:00 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[01-Feb-2016 06:43:00 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[01-Feb-2016 06:43:00 UTC] PHP Stack trace:
+[01-Feb-2016 06:43:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:43:00 UTC] PHP   2. mysqli->set_charset(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[01-Feb-2016 06:43:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[01-Feb-2016 06:43:01 UTC] PHP Stack trace:
+[01-Feb-2016 06:43:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:43:01 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[01-Feb-2016 06:43:01 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[01-Feb-2016 06:43:01 UTC] PHP Stack trace:
+[01-Feb-2016 06:43:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:43:01 UTC] PHP   2. mysqli->set_charset(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[01-Feb-2016 06:43:02 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[01-Feb-2016 06:43:02 UTC] PHP Stack trace:
+[01-Feb-2016 06:43:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:43:02 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[01-Feb-2016 06:43:02 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[01-Feb-2016 06:43:02 UTC] PHP Stack trace:
+[01-Feb-2016 06:43:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:43:02 UTC] PHP   2. mysqli->set_charset(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[01-Feb-2016 06:43:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[01-Feb-2016 06:43:03 UTC] PHP Stack trace:
+[01-Feb-2016 06:43:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:43:03 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[01-Feb-2016 06:43:03 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[01-Feb-2016 06:43:03 UTC] PHP Stack trace:
+[01-Feb-2016 06:43:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:43:03 UTC] PHP   2. mysqli->set_charset(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[01-Feb-2016 06:43:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[01-Feb-2016 06:43:04 UTC] PHP Stack trace:
+[01-Feb-2016 06:43:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:43:04 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[01-Feb-2016 06:43:04 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[01-Feb-2016 06:43:04 UTC] PHP Stack trace:
+[01-Feb-2016 06:43:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:43:04 UTC] PHP   2. mysqli->set_charset(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[01-Feb-2016 06:43:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[01-Feb-2016 06:43:04 UTC] PHP Stack trace:
+[01-Feb-2016 06:43:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:43:04 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[01-Feb-2016 06:43:04 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[01-Feb-2016 06:43:04 UTC] PHP Stack trace:
+[01-Feb-2016 06:43:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:43:04 UTC] PHP   2. mysqli->set_charset(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[01-Feb-2016 06:46:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 11
+[01-Feb-2016 06:46:27 UTC] PHP Stack trace:
+[01-Feb-2016 06:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:46:27 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:11
+[01-Feb-2016 06:46:27 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ubuntu/workspace/MYSQL_test/dbtest1.php on line 12
+[01-Feb-2016 06:46:27 UTC] PHP Stack trace:
+[01-Feb-2016 06:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/MYSQL_test/dbtest1.php:0
+[01-Feb-2016 06:46:27 UTC] PHP   2. mysqli->set_charset(*uninitialized*) /home/ubuntu/workspace/MYSQL_test/dbtest1.php:12
+[15-Feb-2016 16:49:37 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/ubuntu/workspace/Testphp/Ifbunn.php on line 8
+[15-Feb-2016 17:24:43 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/Testphp/Ifbunn.php on line 31
+[15-Feb-2016 17:33:47 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/Testphp/Ifbunn.php on line 31
+[15-Feb-2016 17:33:49 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/Testphp/Ifbunn.php on line 31
+[15-Feb-2016 17:33:50 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/Testphp/Ifbunn.php on line 31
+[15-Feb-2016 17:33:50 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/Testphp/Ifbunn.php on line 31
+[15-Feb-2016 17:44:49 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/Testphp/Ifbunn.php on line 30
+[15-Feb-2016 17:44:50 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/Testphp/Ifbunn.php on line 30
+[15-Feb-2016 17:46:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/Testphp/Ifbunn.php on line 46
+[16-Feb-2016 01:53:02 UTC] PHP Fatal error:  Call to undefined method Print_Calendar::space_cell() in /home/ubuntu/workspace/Testphp/Ifbunn.php on line 50
+[16-Feb-2016 01:53:02 UTC] PHP Stack trace:
+[16-Feb-2016 01:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Testphp/Ifbunn.php:0
+[16-Feb-2016 01:54:40 UTC] PHP Fatal error:  Call to undefined method Print_Calendar::space_cell() in /home/ubuntu/workspace/Testphp/Ifbunn.php on line 50
+[16-Feb-2016 01:54:40 UTC] PHP Stack trace:
+[16-Feb-2016 01:54:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Testphp/Ifbunn.php:0
+[16-Feb-2016 01:56:46 UTC] PHP Fatal error:  Call to undefined method Print_Calendar::space_cell() in /home/ubuntu/workspace/Testphp/Ifbunn.php on line 50
+[16-Feb-2016 01:56:46 UTC] PHP Stack trace:
+[16-Feb-2016 01:56:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/Testphp/Ifbunn.php:0
+[16-Feb-2016 03:06:56 UTC] PHP Fatal error:  Class 'Asset' not found in /home/ubuntu/workspace/Testphp/template.php on line 17
+[16-Feb-2016 03:06:56 UTC] PHP Stack trace:
+[16-Feb-2016 03:06:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/Testphp/template.php:0

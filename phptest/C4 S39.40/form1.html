@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <title>テキスト送信のテスト</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    </head>
+    <body bgcolor="#FFFFFF" text="#000000">
+        <font size="4">テキスト送信のテスト</font>
+        <form name="form2" method="post" action="view1.php">
+            
+            <!-- hoddy[] 配列 -->
+            私の趣味:<br>
+            <input type="checkbox" name="hoddy[]" value="スポーツ">
+            スポーツ<br>
+            <input type="checkbox" name="hoddy[]" value="映画鑑賞">
+            映画鑑賞<br>
+            <input type="checkbox" name="hoddy[]" value="読書">
+            読書<br><br>
+            
+            <!-- グループ毎に　name属性をつける -->
+             性別:<br>
+            <input type="radio" name="gender" value="男">女の人が好き<br>
+            <input type="radio" name="gender" value="ゲイ">男の人が好き<br>
+            <br><br>
+             賢さ:<br>
+            <input type="radio" name="tensai" value="賢い">125以上<br>
+            <input type="radio" name="tensai" value="小学生">125以下<br>
+            <br>
+            
+            <!-- プルダウン -->
+            都道府県:<br> 
+        <select name="ken">
+            <!-- value=""   valueを空にしておく　-->
+        <option value="" selected>-----都道府県を選んでください-----</option>
+            <option value="北海道">北海道</option>
+                     <!--  中略   -->
+            <option value="埼玉県">埼玉県</option>
+            <option value="神奈川県">神奈川県</option>
+            <option value="東京都">東京都</option>
+            <option value="コリン星">千葉県</option>
+        </select><br>
+        <br>
+        
+        <!--　リストボックス　-->
+         私の趣味 : <br>
+         <!-- multiple == 複数選択ができるようになる。 control + クリック -->
+         <select name="hobby[]" size"5" multiple>
+             <option value="読書">読書</option>
+             <option value="映画鑑賞">映画鑑賞</option>
+             <option value="英会話">英会話</option>
+             <optino value="音楽鑑賞">音楽鑑賞</optino>
+             <option value="カラオケ">カラオケ</option>
+             <optino value="ガーデニング">ガーデニング</optino>
+             <optino value="写真">写真</optino>
+             <option value="ジョギング">ジョギング</option>
+             <optino value="盆栽">家庭菜園</optino>
+         </select><br>
+         <br>
+            <input type="submit" value="送　信">
+        </form>
+    </body>
+</html>
